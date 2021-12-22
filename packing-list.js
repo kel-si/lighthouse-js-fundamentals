@@ -10,6 +10,7 @@ const packingList = [
 ];
 
 console.log("Kitchen stuff to pack:");
-for (let i = 0; i < packingList.length; i++) {
+for (i < packingList.length) {
   console.log(packingList[i]);
+  i++
 }
